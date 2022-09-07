@@ -4,3 +4,5 @@ Collection of LeetCode questions to ace the coding interview!
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
 ### Tree Problem:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2236-root-equals-sum-of-children
+### Sum of 1D Array:
+  https://github.com/YomnaAhmed97/LeetCode/tree/main/1480-running-sum-of-1d-array
