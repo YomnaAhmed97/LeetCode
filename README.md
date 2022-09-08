@@ -8,3 +8,5 @@ Collection of LeetCode questions to ace the coding interview!
   https://github.com/YomnaAhmed97/LeetCode/tree/main/1480-running-sum-of-1d-array
 ### Find the pivot:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/724-find-pivot-index
+### Richest Customer Wealth
+https://github.com/YomnaAhmed97/LeetCode/tree/main/1672-richest-customer-wealth
