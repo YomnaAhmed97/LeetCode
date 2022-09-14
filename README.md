@@ -1,5 +1,8 @@
 # LeetCode
 Collection of LeetCode questions to ace the coding interview!
+## Count of problems solved:
+6
+## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
 ### Tree Problem:
