@@ -10,3 +10,5 @@ Collection of LeetCode questions to ace the coding interview!
 https://github.com/YomnaAhmed97/LeetCode/tree/main/724-find-pivot-index
 ### Richest Customer Wealth
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1672-richest-customer-wealth
+### FizzBuzz Problem:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/412-fizz-buzz
