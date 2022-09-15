@@ -4,8 +4,8 @@ class Solution:
         while(num!=0):
             if num % 2 == 0:
                 num /= 2
-                ctr+=1
+                
             else:
                 num -= 1
-                ctr += 1
+            ctr+=1
         return ctr
