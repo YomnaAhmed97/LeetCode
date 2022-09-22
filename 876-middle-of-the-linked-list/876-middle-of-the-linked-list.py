@@ -6,6 +6,7 @@
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
         # iterative solution with two pointers
+#         Initialize two points, fast pointer will move to the next and next node while slow pointer only moves one node. When the fast pointer move into the last node, the slow pointer is the
         ptr1 = head # steady
         ptr2 = head # moving pointer
         while ptr2 != None and ptr2.next != None:
