@@ -1,7 +1,7 @@
 # LeetCode
 Collection of LeetCode questions to ace the coding interview!
 ## Count of problems solved:
-8
+9
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -19,5 +19,7 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/412-fizz-buzz
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero
 ### Middle of linked list:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/876-middle-of-the-linked-list
+### Ransom-note:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/383-ransom-note
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
