@@ -1,7 +1,7 @@
 # LeetCode
 Collection of LeetCode questions to ace the coding interview!
 ## Count of problems solved:
-9
+10
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -21,5 +21,7 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/1342-number-of-steps-to-reduc
 https://github.com/YomnaAhmed97/LeetCode/tree/main/876-middle-of-the-linked-list
 ### Ransom-note:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/383-ransom-note
+### Count Odd Numbers:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
