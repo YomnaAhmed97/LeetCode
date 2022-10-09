@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-11
+12
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -27,4 +27,6 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/383-ransom-note
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range
 ### Average Salary:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary
+### Number of '1' bits:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/191-number-of-1-bits
 
