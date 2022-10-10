@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-13
+14
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -31,4 +31,6 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/1491-average-salary-excluding
 https://github.com/YomnaAhmed97/LeetCode/tree/main/191-number-of-1-bits
 ### Subtract the Product and Sum of Digits of an Integer:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer
+### Largest Perimeter Triangle:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/0976-largest-perimeter-triangle
 
