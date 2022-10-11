@@ -39,4 +39,6 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/1502-can-make-arithmetic-prog
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate
 ### sign-of-the-product-of-an-array:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1822-sign-of-the-product-of-an-array
+### Happy Number:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/0202-happy-number
 
