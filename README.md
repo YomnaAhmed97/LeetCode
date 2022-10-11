@@ -41,4 +41,5 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/1779-find-nearest-point-that-
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1822-sign-of-the-product-of-an-array
 ### Happy Number:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0202-happy-number
-
+### Check if One String Swap Can Make Strings Equal:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal
