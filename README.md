@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-15
+16
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -35,4 +35,6 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/1281-subtract-the-product-and
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0976-largest-perimeter-triangle
 ### Find Nearest Point That Has the Same X or Y Coordinate:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate
+### sign-of-the-product-of-an-array:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/1822-sign-of-the-product-of-an-array
 
