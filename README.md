@@ -33,6 +33,8 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/191-number-of-1-bits
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer
 ### Largest Perimeter Triangle:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0976-largest-perimeter-triangle
+### Can Make Arithmetic Progression From Sequence:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence
 ### Find Nearest Point That Has the Same X or Y Coordinate:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate
 ### sign-of-the-product-of-an-array:
