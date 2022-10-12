@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-19
+20
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -43,3 +43,5 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/1822-sign-of-the-product-of-a
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0202-happy-number
 ### Check if One String Swap Can Make Strings Equal:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal
+### N-ary Tree Preorder Traversal:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/0589-n-ary-tree-preorder-traversal
