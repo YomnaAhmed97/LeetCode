@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-21
+22
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -47,4 +47,6 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/1790-check-if-one-string-swap
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0589-n-ary-tree-preorder-traversal
 ### Next Greater Element:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0496-next-greater-element-iI
+### Check If It Is a Straight Line:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/1232-check-if-it-is-a-straight-line
 
