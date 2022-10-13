@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-23
+24
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -51,4 +51,7 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/0496-next-greater-element-iI
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1232-check-if-it-is-a-straight-line
 ### Sum of All Odd Length Subarrays:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays
+### Move Zeroes:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/0283-move-zeroes
+
 
