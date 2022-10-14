@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-24
+26
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -53,5 +53,9 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/1232-check-if-it-is-a-straigh
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays
 ### Move Zeroes:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0283-move-zeroes
+### Matrix Diagonal Sum:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/1572-matrix-diagonal-sum
+### Reshape the Matrix:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/0566-reshape-the-matrix
 
 
