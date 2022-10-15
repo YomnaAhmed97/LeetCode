@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-27
+28
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -59,4 +59,6 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/1572-matrix-diagonal-sum
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0566-reshape-the-matrix
 ### Find the Difference:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0389-find-the-difference
+### Merge Strings Alternately
+https://github.com/YomnaAhmed97/LeetCode/tree/main/1768-merge-strings-alternately
 
