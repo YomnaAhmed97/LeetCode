@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-31
+32
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -67,3 +67,5 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/1678-goal-parser-interpretati
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0709-to-lower-case
 ### Decrypt String from Alphabet to Integer Mapping:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping
+### Verifying an Alien Dictionary:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/0953-verifying-an-alien-dictionary
