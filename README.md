@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-33
+34
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -71,3 +71,5 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/1309-decrypt-string-from-alph
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0953-verifying-an-alien-dictionary
 ### Sum of Left Leaves:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0404-sum-of-left-leaves
+### Convert Binary Number in a Linked List to Integer:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer
