@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-37
+38
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -79,4 +79,6 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/0104-maximum-depth-of-binary-
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits
 ### Implement Queue using Stacks:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0232-implement-queue-using-stacks
+### Contains Duplicate:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/0217-contains-duplicate
 
