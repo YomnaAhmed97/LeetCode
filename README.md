@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-38
+39
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -81,4 +81,5 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/1356-sort-integers-by-the-num
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0232-implement-queue-using-stacks
 ### Contains Duplicate:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0217-contains-duplicate
-
+### Valid Anagram:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/0242-valid-anagram
