@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-35
+36
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -75,3 +75,5 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/0404-sum-of-left-leaves
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer
 ### Maximum Depth of Binary Tree:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0104-maximum-depth-of-binary-tree
+### Sort Integers by The Number of 1 Bits:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits
