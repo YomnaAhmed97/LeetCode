@@ -85,3 +85,5 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/0217-contains-duplicate
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0242-valid-anagram
 ### Range Sum Query - Immutable:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0303-range-sum-query-immutable
+### Design Parking System:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/1603-design-parking-system
