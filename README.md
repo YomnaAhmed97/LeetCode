@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-41
+42
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -87,3 +87,5 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/0242-valid-anagram
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0303-range-sum-query-immutable
 ### Design Parking System:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1603-design-parking-system
+### Monotonic Array:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/0896-monotonic-array
