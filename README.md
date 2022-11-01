@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-42
+43
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -89,3 +89,5 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/0303-range-sum-query-immutabl
 https://github.com/YomnaAhmed97/LeetCode/tree/main/1603-design-parking-system
 ### Monotonic Array:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0896-monotonic-array
+### Find the Index of the First Occurrence in a String:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string
