@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Link of My Profile:
 https://leetcode.com/yomnazali/
 ## Count of problems solved:
-44
+45
 ## List of Problems:
 ### Sum Two Integers:
   https://github.com/YomnaAhmed97/LeetCode/tree/main/2235-add-two-integers
@@ -93,4 +93,6 @@ https://github.com/YomnaAhmed97/LeetCode/tree/main/0896-monotonic-array
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string
 ### Repeated Substring Pattern:
 https://github.com/YomnaAhmed97/LeetCode/tree/main/0459-repeated-substring-pattern
+### Balanced Binary Tree:
+https://github.com/YomnaAhmed97/LeetCode/tree/main/0110-balanced-binary-tree
 
